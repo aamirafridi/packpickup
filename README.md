@@ -1,6 +1,6 @@
 # Pack pick up
 
-Site: https://aamirafridi.github.io/kata-pricing/
+Site: http://aamirafridi.github.io/packpickup
 
 ## Deploy
 
