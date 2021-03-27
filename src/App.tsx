@@ -8,7 +8,7 @@ import { Home } from "./pages/Home";
 
 export const App: FunctionComponent = () => {
   return (
-    <HashRouter>
+    <HashRouter basename="/">
       <Switch>
         <Route exact path="/">
           <Home />
